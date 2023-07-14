@@ -1,16 +1,24 @@
-### Hi there 👋
+👋 Hi there! I'm [Kaustubh], a passionate student specializing in Machine Learning and Deep Learning.
 
-<!--
-**Kaustbh/Kaustbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--🔭 Projects:
+- [Project 1]: Briefly describe the ML or deep learning project you've worked on. Highlight the problem statement, techniques used, and key outcomes or insights gained.
 
-Here are some ideas to get you started:
+- [Project 2]: Provide a concise overview of another ML or deep learning project you've completed. Emphasize the dataset, algorithms employed, and any notable achievements or impact.-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Education:
+- [Indian Institue of Information and Technology , Kottayam]: 
+
+💼 Skills:
+- Proficient in Python, with experience in libraries such as TensorFlow, Keras, and scikit-learn.
+- Strong understanding of ML algorithms, including linear regression, logistic regression, decision trees, random forests, and neural networks.
+- Familiarity with deep learning frameworks like Streamlit and fastai.
+- Experience in data preprocessing, feature engineering, and model evaluation.
+
+
+<!--💡 Achievements:
+- Mention any awards, certifications, or competitions related to ML or deep learning that you have participated in and achieved notable results.
 -->
+<!-- 📫 Let's connect:
+- Feel free to reach out to me at [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) to discuss potential ML internship opportunities or collaborate on ML projects.
+-->
+I'm eager to contribute my skills, learn from experienced professionals, and make a meaningful impact in the field of ML. Looking forward to exciting challenges and new opportunities in ML internships! 🚀
