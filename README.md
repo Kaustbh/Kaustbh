@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Kaustubh], a passionate student specializing in Machine Learning and Deep Learning.
+👋 Hi there! I'm Kaustubh, a passionate student specializing in Machine Learning and Deep Learning.
 
 <!--🔭 Projects:
 - [Project 1]: Briefly describe the ML or deep learning project you've worked on. Highlight the problem statement, techniques used, and key outcomes or insights gained.
@@ -6,7 +6,7 @@
 - [Project 2]: Provide a concise overview of another ML or deep learning project you've completed. Emphasize the dataset, algorithms employed, and any notable achievements or impact.-->
 
 🌱 Education:
-- [Indian Institue of Information and Technology , Kottayam]: 
+- Indian Institue of Information and Technology , Kottayam.
 
 💼 Skills:
 - Proficient in Python, with experience in libraries such as TensorFlow, Keras, and scikit-learn.
@@ -21,4 +21,4 @@
 <!-- 📫 Let's connect:
 - Feel free to reach out to me at [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) to discuss potential ML internship opportunities or collaborate on ML projects.
 -->
-I'm eager to contribute my skills, learn from experienced professionals, and make a meaningful impact in the field of ML. Looking forward to exciting challenges and new opportunities in ML internships! 🚀
+I'm eager to contribute my skills, learn from experienced professionals, and make a meaningful impact in the field of AI/ML. Looking forward to exciting challenges and new opportunities in AI/ML 🚀
