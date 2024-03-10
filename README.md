@@ -1,18 +1,49 @@
-👋 Hi there! I'm Kaustubh, a passionate student specializing in Machine Learning and Deep Learning.
+<h2 align="left">👋 Hi there! I'm Kaustubh, a passionate student specializing in Machine Learning and Deep Learning.<br><br>🌱 Education:<br><br>Indian Institue of Information and Technology , Kottayam.<br><br>💼 Skills:<br><br>Proficient in Python, with experience in libraries such as TensorFlow, Keras, and scikit-learn.<br>Strong understanding of ML algorithms, including linear regression, logistic regression, decision trees, random forests, and neural networks.<br>Familiarity with deep learning frameworks like Streamlit and fastai.<br>Experience in data preprocessing, feature engineering, and model evaluation.<br>I'm eager to contribute my skills, learn from experienced professionals, and make a meaningful impact in the field of AI/ML. Looking forward to exciting challenges and new opportunities in AI/ML 🚀</h2>
 
-<!--🔭 Projects:
-- [Project 1]: Briefly describe the ML or deep learning project you've worked on. Highlight the problem statement, techniques used, and key outcomes or insights gained.
+###
 
-- [Project 2]: Provide a concise overview of another ML or deep learning project you've completed. Emphasize the dataset, algorithms employed, and any notable achievements or impact.-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustbh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustbh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-🌱 Education:
-- Indian Institue of Information and Technology , Kottayam.
+###
 
-💼 Skills:
-- Proficient in Python, with experience in libraries such as TensorFlow, Keras, and scikit-learn.
-- Strong understanding of ML algorithms, including linear regression, logistic regression, decision trees, random forests, and neural networks.
-- Familiarity with deep learning frameworks like Streamlit and fastai.
-- Experience in data preprocessing, feature engineering, and model evaluation.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="desalekaustubh3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/kaustubh-desale-25b905202/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Kaustbh/Kaustbh/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <!--💡 Achievements:
