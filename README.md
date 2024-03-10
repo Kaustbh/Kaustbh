@@ -52,4 +52,4 @@
 <!-- 📫 Let's connect:
 - Feel free to reach out to me at [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) to discuss potential ML internship opportunities or collaborate on ML projects.
 -->
-I'm eager to contribute my skills, learn from experienced professionals, and make a meaningful impact in the field of AI/ML. Looking forward to exciting challenges and new opportunities in AI/ML 🚀
+
