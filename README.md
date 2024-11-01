@@ -48,6 +48,9 @@
   </a>
 </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Kaustbh&&style=flat-square" align="center" />
+</div>  
 ###
 
 <br clear="both">
@@ -55,7 +58,3 @@
 <img src="https://raw.githubusercontent.com/Kaustbh/Kaustbh/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kaustbh&&style=flat-square" align="center" />
-</div>  
