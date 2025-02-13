@@ -1,8 +1,5 @@
 # **Kaustubh Desale**  
 ### **Machine Learning Enthusiast | Open-Source Contributor**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaustubh-desale/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:desalekaustubh7@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-green?style=for-the-badge&logo=github)](https://github.com/Kaustbh)  
 
 ---
 
