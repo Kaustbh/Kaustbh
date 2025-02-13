@@ -1,4 +1,18 @@
-<h2 align="left">👋 Hi there! I'm Kaustubh, a passionate student specializing in Machine Learning and Deep Learning.<br><br>🌱 Education:<br><br>Indian Institue of Information and Technology , Kottayam.<br><br>💼 Skills:<br><br>Proficient in Python, with experience in libraries such as TensorFlow, Keras, and scikit-learn.<br>Strong understanding of ML algorithms, including linear regression, logistic regression, decision trees, random forests, and neural networks.<br>Familiarity with deep learning frameworks like Streamlit and fastai.<br>Experience in data preprocessing, feature engineering, and model evaluation.<br>I'm eager to contribute my skills, learn from experienced professionals, and make a meaningful impact in the field of AI/ML. Looking forward to exciting challenges and new opportunities in AI/ML 🚀</h2>
+# **Kaustubh Desale**  
+### **Machine Learning Enthusiast | Open-Source Contributor**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaustubh-desale/)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:desalekaustubh7@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-green?style=for-the-badge&logo=github)](https://github.com/Kaustbh)  
+
+---
+
+## **About Me**  
+Hi there! 👋 I’m **Kaustubh Desale**, a passionate **Machine Learning Engineer** with a strong interest in **generative AI, deep learning, and MLOps**. I specialize in building scalable machine learning models and deploying them for real-world applications. I’m also an **open-source contributor** to libraries like Matplotlib and fpdf2.  
+
+- 🔭 I’m currently working on **generative AI systems** and **ML model deployment**.  
+- 🌱 I’m learning **advanced NLP techniques** and **MLOps best practices**.  
+- 💬 Ask me about **Python, PyTorch, Hugging Face, or anything AI/ML-related**.  
+- 📫 How to reach me: **desalekaustubh7@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/kaustubh-desale/). 
 
 ###
 
