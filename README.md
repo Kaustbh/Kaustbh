@@ -4,9 +4,9 @@
 ---
 
 ## **About Me**  
-Hi there! 👋 I’m **Kaustubh Desale**, a passionate **Machine Learning Engineer** with a strong interest in **generative AI, deep learning, and MLOps**. I specialize in building scalable machine learning models and deploying them for real-world applications. I’m also an **open-source contributor** to libraries like Matplotlib, Aeon and fpdf2.  
+Hi there! 👋 I’m **Kaustubh Desale**, a passionate **Machine Learning Enthusiast** with a strong interest in **generative AI, deep learning, and MLOps**. I specialize in building scalable machine learning models and deploying them for real-world applications. I’m also an **open-source contributor** to libraries like Matplotlib, Aeon and fpdf2.  
 
-- 🔭 I’m currently working on **generative AI systems** and **ML model deployment**.  
+- 🔭 I’m currently working on **generative AI systems**. 
 - 🌱 I’m learning **advanced NLP techniques** and **MLOps best practices**.   
 - 📫 How to reach me: **desalekaustubh7@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/kaustubh-desale/). 
 
